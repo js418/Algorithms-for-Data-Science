@@ -2,8 +2,8 @@
 
 reconstruct classic algorithms:
 
-bloom filter
-Flajolet- Martin
-Count - min
-K-means
-K-means++
+bloom filter  
+Flajolet- Martin  
+Count - min  
+K-means  
+K-means++  
